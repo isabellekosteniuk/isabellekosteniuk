@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "ceramics"
+date:   2018-01-11 10:54:37 -0500
+categories: portfolio
+---
+
+<div class = "text-section">
+<img src = "/assets/art/pitcher.jpg">
+<li>pitcher, 2012, stoneware</li><br>
+<img src = "/assets/art/teacup.jpg">
+<li>teacup, 2012, stoneware</li><br>
+<img src = "/assets/art/mouthmug.jpg">
+<li>mouth mug, 2011, stoneware</li><br>
+<img src = "/assets/art/figure.jpg">
+<li>figure, 2012, stoneware</li><br>
+<img src = "/assets/art/jar.jpg">
+<li>jar, 2012, stoneware</li><br>
+</div>

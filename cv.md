@@ -7,53 +7,64 @@ permalink: /cv/
 ---
 
 <div class = "article-container">
-<div class = "text-section">
+<div class = "cv">
 
-Ombudsman of National Defence, Government of Canada
+<hr><h3>skills </h3>
+<hr>
 
-IT/Network Support Staff  February 2017-Present 
-	Configure network nodes
-	Perform IT hardware & software audits
-	Provide support to office of 70+ employees
+<p>
+
+<i>languages:</i> C, HTML/CSS/JS, Powershell, Arduino/Processing<br><br>
+<i>frameworks:</i> Angular, Rails, Jekyll<br><br>
+<i>version control/app hosting:</i> SVN, Git, Heroku<br><br>
+<i>software packages:</i> MATLAB/Simulink, RETScreen, HOT2000, LabView, Visio, Autodesk sketchbook, Google SketchUp, MS Office<br><br>
 
 
-Urbandale Centre For Home Energy Research
-Research Assistant   January 2015-January 2017 
+</p>
+
+<hr><h3>employment</h3><hr>
+
+<i><b>Ombudsman of National Defence, Government of Canada: February 2017 - Present</b></i>
+
+<p><i>IT/Network Support Staff</i>
+	<li>Configure network nodes</li>
+	<li>Perform IT hardware and software audits</li>
+	<li>Provide support to office of 70+ employees</li>
+	<li>Plan, develop, test internal corporate services catalogue</li>
+</p>
+
+<i><b>Urbandale Centre For Home Energy Research: January 2015 - January 2017</b></i>
+<p><i>Research Assistant</i><br><br>
+
 This project is a state-of-the-art research facility in which several independent  methods of sustainable solar thermal domestic heating and cooling will be tested over the next several decades. 
 
 
-  	Programmed data acquisition and control systems in LabVIEW
-	Created data archival system in PowerShell
-	Provided training seminars on data collection and system controls
-	Worked with graduate students to plan and execute experiments 
-	Installed instrumentation and equipment
-	Aided in design and construction of various projects including:
-		 Cold climate rock bed tempered heat pump
-		 Thermal discharge plumbing system
-		 Seasonal thermal storage tank
-  	Created clear design diagrams of solar thermal heating systems 
-  	Communicated with granting agency to encourage future participation
-    Provideded tours of the facility with varying levels of technical information to visiting scholars and community members
+  	<li>Programmed data acquisition and control systems in LabVIEW</li>
+	<li>Created data archival system in PowerShell</li>
+	<li>Provided training seminars on data collection and system controls</li>
+	<li>Worked with graduate students to plan and execute experiments </li>
+	<li>Installed instrumentation and equipment</li>
+  	<li>Created clear design diagrams of solar thermal heating systems</li> 
+  	<li>Communicated with granting agency to encourage future participation</li>
+    <li>Provideded tours of the facility with varying levels of technical information to visiting scholars and community members</li>
+</p>
 
-
-Lush Cosmetics ¤ September 2012 – August 2016
-Keyholder/ Visual Merchandiser 
-     Supervised salesfloor with focus on regularly achieving hourly, daily,	and monthly team goals
-	Trained staff on visual standards and offered salesfloor coaching
-	Excecuted in-store displays, following design standards and guidelines
-
-
+<i><b>Lush Cosmetics: September 2012 - August 2016</b></i>
+<p>
+<i>Keyholder/Visual Merchandiser</i>
+    <li>Supervised salesfloor with focus on regularly achieving hourly, daily,	and monthly team goals</li>
+	<li>Trained staff on visual standards and offered salesfloor coaching</li>
+	<li>Effectively and consistently communicated company values to customers</li> 
+	<li>Excecuted in-store displays, following design standards and guidelines</li>
+</p>
+<hr><h3> education </h3><hr>
 	
-Canterbury High School  ¤  Class of 2013
-¤          Graduated with Honors, Silver medal, Ontario Scholar, and Lillian Rapport Memorial award (2009, 2013) 
- ¤	Received Canterbury Visual Arts Certificate with distinction
-Carleton University  ¤  Class of 2018
-¤     	Undergraduate Degree in Sustainable and Renewable Energy			      	Engineering
-¤    	Dean’s Honor List (2013 - 2016)
-¤	           Basic proficiency programming in C and Ruby
-¤	    Practiced in simulation, diagramming, and data acquisition softwares	including LabView, Visio, PowerShell,  MATLAB/Simulink, Xilinx,	and MS Office
-¤	Basic knowledge of MCV frameworks and SQL
-¤		Experience with SVN and Git version control systems
-¤		Basic French
+<i><b>Canterbury: Class of 2013</b></i>
+  <p>Graduated with Honors, Silver medal, Ontario Scholar, and Lillian Rapport Memorial award (2009, 2013) 
+  Received Canterbury Visual Arts Certificate with distinction</p>
+
+<i><b>Carleton University: Class of 2018</b></i>
+<p>Undergraduate Degree in Electrical Engineering, Specialization in Sustainable and Renewable EnergyDean’s Honor List (2013 - 2017)</p>
+
 </div>
 </div>

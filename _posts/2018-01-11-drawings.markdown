@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "drawings"
+date:   2018-01-11 10:54:37 -0500
+categories: portfolio
+---
+
+
+<div class = "text-section">
+<img src = "/assets/art/milkjar.jpg">
+<li>milk jar, 2016, ink on paper</li><br>
+<img src = "/assets/art/nofuture.jpg">
+<li>no future, 2016, ink on paper</li><br>
+<img src = "/assets/art/loworbit2.jpg">
+<li>low orbit, 2018, digitized ink on paper</li><br>
+</div>
