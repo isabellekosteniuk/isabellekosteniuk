@@ -15,7 +15,7 @@ categories: portfolio
 <img src = "/assets/art/mouthmug.jpg">
 <figcaption>mouth mug, 2011, stoneware</figcaption><br>
 
-<img src = "/assets/art/figure.jpg">
+<img src = "/assets/art/figure.JPG">
 <figcaption>figure, 2012, stoneware</figcaption><br>
 
 <img src = "/assets/art/jar.jpg">

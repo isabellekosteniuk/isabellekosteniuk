@@ -7,15 +7,23 @@ categories: portfolio
 
 
 
-<img src = "/assets/art/milkjar.jpg">
+<img src = "/assets/art/Milkjar.jpg">
 <figcaption>milk jar, 2015, ink on paper</figcaption><br>
 
-<img src = "/assets/art/nofuture.jpg">
+
+
+<img src = "/assets/art/Nofuture.jpg">
 <figcaption>no future, 2015, ink on paper</figcaption><br>
+
+
+
 
 <img src = "/assets/art/fruityboys.png">
 <figcaption>fruity boys, 2018, digital logo</figcaption><br>
 
+
+
 <img src = "/assets/art/loworbit2.jpg">
 <figcaption>low orbit, 2018, digitized ink on paper</figcaption><br><br>
+
 

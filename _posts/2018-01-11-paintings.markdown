@@ -9,7 +9,7 @@ categories: portfolio
 <img src = "/assets/art/lye.jpg">
 <figcaption>Lye, 2014, oil on birch</figcaption><br>
 
-<img src = "/assets/art/gabi.jpg">
+<img src = "/assets/art/Gabi.jpg">
 <figcaption>Gabi, 2016, oil on birch</figcaption><br>
 
 <img src = "/assets/art/lou.jpg">
