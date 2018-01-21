@@ -5,18 +5,37 @@ date:   2018-01-11 10:54:37 -0500
 categories: projects
 ---
 
-Installed instrumentation - custom thermopiles, flowmeters, wind sensors, pyranometers. Interpretation of technical documents and manuals. Mechanical, electrical connections. Cabling layouts and information management. 
+<div class="text-section">
 
-Labview stuff. Worked with National Instruments data acquisition controllers. Built off existing project.
+<div style="text-align: center"><h3>Urbandale Centre for Home Energy Research</h3> <br>
+<b>Research Assistant</b></div>
 
-Tasks to read data - communicate with variety of sensors with different ranges, noise levels, output types. 
-Manipulate data - pipeline moderately large amounts f data through calibration polynomials. 
-Store data - create formatting system for easily readable data
-Make decisions (change modes) - translate control algorithm to labview 
-Actuate sensors - relays, lots of string manipulation
+<p> 
+This project is a state-of-the-art research facility in which several independent methods of sustainable solar thermal domestic heating and cooling will be tested over the next several decades. A multidisciplinary team of professors, graduate students, and technicians manage the facilities and conduct experiments as part of the Carleton University Substainable Building Energy Systems group.
+</p>
+</div>
+<img src="/assets/posts/cheer_house.jpg">
+<div class="text-section">
+<p>
+Commissioning the data acquisition and control system involved physical installation of sensors and controllers as well as the development of a software-based control system. The control system consisted of National Instruments PXI controllers and modules, using a Mac supervisor machine. The system was responsible for coordinating information flow between flowmeters, wind sensors, pyranometers, actuated valves, and several hundred thermocouples located throughout the three-story building.
+</p>
 
-Send data to SVN server for processing and storage using PowerShell script.
+<p>
+The data acquisition and control software, written mainly in LabVIEW was responsible for the following:
+<ul>
+<li>Read data - communicate with variety of sensors with different ranges, noise levels, and output types. </li>
+<li>Manipulate data - pipeline moderately large amounts of data through calibration polynomials. </li>
+<li>Store data - create formatting system for easily readable data and transfer files regularly to a remote SVN server</li>
+<li>Make control decisions - Use relays to change heating/cooling modes based on sensor output</li>
+</ul><br>
 
-Worked with a team of graduate students and technicians. 
+The system is currently able to operate autonomously and maintain the house at a comfortable temperature. The following infographic showcases several experiments being conducted as well as main features of the facility.
+</p>
+</div>
+<img src="/assets/posts/cheer_infographic.png">
+<div class="text-section">
+<p>
+The Carleton University Sustainable Building Systems page can be found <a href="https://carleton.ca/sbes/research-facilities/urbandale-centre-for-home-energy-research/">here </a><br><br>
+</p>
 
-Links:
+</div>

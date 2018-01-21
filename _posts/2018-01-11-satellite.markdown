@@ -7,8 +7,8 @@ categories: projects
 
 <div class="text-section">
 <img src ="/assets/posts/cusat_logo.png">
-<h3>CuSAT-1</h3> <br>
-<b><div style="text-align: center">2017/18 Command and Data Handling Team Member: GPS/Communications Flight Software</div></b>
+<div style="text-align: center"><h3>CuSAT-1</h3> <br>
+<b>2017/18 Command and Data Handling Team Member: GPS/Communications Flight Software</b></div>
 
 <p>CuSAT-1 is a cubesat currently being developed by Carleton University. The satellite is intended to demonstrate the detection of anomalistic thermal events for determining the location of forest fires. The team consists of approximately 30 undergraduate students and several professors & industry leaders. </p>
 </div>
@@ -21,5 +21,5 @@ categories: projects
 
 <p>I developed software wireframes that could be applied to each subsystem task including GPS, communications, power, and thermal. I also expanded upon existing flight software and made recommendations for optimizing the GPS flight code by improving the data parsing algorithm and investigating matrix operation execution times.</p>
 
-<p>Working on the CuSAT-1 team involved integration with other subsystem teams, project meetings, regular presentations, and technical report writing. The midterm CuSAT-1 CDH report can be downloaded here.</p>
+<p>Working on the CuSAT-1 team involved integration with other subsystem teams, project meetings, regular presentations, and technical report writing. The midterm CuSAT-1 CDH report can be downloaded <a href="/assets/pdfs/cusat_midtermreport.pdf">here.</a></p>
 </div>

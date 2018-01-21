@@ -5,7 +5,7 @@ html {
 	margin:0;
 	padding:0;
 	
-  font-family: arial;
+  font-family: arial ;
 
 
 }
@@ -48,10 +48,6 @@ html {
 }
 
 
-.text-section li {
-  text-align: center;
-  list-style-type: none;
-}
 
 
 

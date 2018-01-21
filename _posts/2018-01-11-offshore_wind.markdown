@@ -8,8 +8,8 @@ categories: projects
 
 
 <div class="text-section">
-<h3>Offshore Wind Pre-Feasibility Study</h3> <br>
-<b><div style="text-align: center">Economic Analyst</div></b>
+<div style="text-align:center"><h3>Offshore Wind Pre-Feasibility Study</h3><br>
+Economic Analyst</div>
 
 
 
@@ -27,7 +27,7 @@ categories: projects
 <img src="/assets/posts/offshorewind_cashflow.png">
 <div class="text-section">
 <p>The cumulative cash flow diagram above represents the best case scenario for the project. Despite the apparent payback period of ~15 years, the analysis produces a negative NPV, indicating that the project is not feasible without government subsidization. However, market research indicates that offshore wind costs are falling, and Canadian wind generation is eligible for both direct and indirect incentives. </p>
-<p> The full report can be found here.</p><br>
+<p> The full report can be found <a href="/assets/pdfs/offshorewind_report.pdf">here.</a></p><br>
 
 
 </div>

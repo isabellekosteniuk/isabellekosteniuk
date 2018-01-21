@@ -7,20 +7,9 @@ permalink: /cv/
 ---
 
 <div class = "article-container">
+
 <div class = "cv">
 
-<hr><h3>skills </h3>
-<hr>
-
-<p>
-
-<i>languages:</i> C, HTML/CSS/JS, Powershell, Arduino/Processing<br><br>
-<i>frameworks:</i> Angular, Rails, Jekyll<br><br>
-<i>version control/app hosting:</i> SVN, Git, Heroku<br><br>
-<i>software packages:</i> MATLAB/Simulink, RETScreen, HOT2000, LabView, Visio, Autodesk sketchbook, Google SketchUp, MS Office<br><br>
-
-
-</p>
 
 <hr><h3>employment</h3><hr>
 
@@ -57,7 +46,7 @@ This project is a state-of-the-art research facility in which several independen
 	<li>Effectively and consistently communicated company values to customers</li> 
 	<li>Excecuted in-store displays, following design standards and guidelines</li>
 </p>
-<hr><h3> education </h3><hr>
+<hr><h3>education</h3><hr>
 	
 <i><b>Canterbury: Class of 2013</b></i>
   <p>Graduated with Honors, Silver medal, Ontario Scholar, and Lillian Rapport Memorial award (2009, 2013) 
@@ -65,6 +54,19 @@ This project is a state-of-the-art research facility in which several independen
 
 <i><b>Carleton University: Class of 2018</b></i>
 <p>Undergraduate Degree in Electrical Engineering, Specialization in Sustainable and Renewable EnergyDean’s Honor List (2013 - 2017)</p>
+
+<hr><h3>skills </h3>
+<hr>
+
+<p>
+
+<i>languages:</i> C, HTML/CSS/JS, Powershell, Arduino/Processing<br><br>
+<i>frameworks:</i> Angular, Rails, Jekyll<br><br>
+<i>version control/app hosting:</i> SVN, Git, Heroku<br><br>
+<i>software packages:</i> MATLAB/Simulink, RETScreen, HOT2000, LabView, Visio, Autodesk sketchbook, Google SketchUp, MS Office<br><br>
+
+
+</p>
 
 </div>
 </div>
