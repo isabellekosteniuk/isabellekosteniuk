@@ -1,12 +1,17 @@
 ---
 layout: post
-title:  "Green Building Design"
+title:  "Net-Zero Townhouse"
 date:   2018-01-11 10:54:37 -0500
 categories: projects
 ---
 
 
 <div class="text-section">
+
+<div style="text-align: center"><h3>Net-Zero Townhouse</h3> <br>
+<b>HVAC Design</b></div>
+
+
 <p>
 The purpose of this project was to design a three-level townhouse designed for Ottawa that could achieve net-zero or better energy use. The design considered the building envelope, passive/active energy systems, material selection for environmental impact, occupant behaviour, and conforms to ASHRAE standards. The figure below illustrates the results of the project, including main metrics such as energy intensity per occupant and net energy production.
 </p>

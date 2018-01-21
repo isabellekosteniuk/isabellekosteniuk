@@ -4,8 +4,7 @@
 html {
 	margin:0;
 	padding:0;
-	
-  font-family: arial ;
+  font-family: helvetica !important;
 
 
 }
@@ -39,7 +38,7 @@ html {
 
 
 .text-section {
-  font-family: arial;
+  font-family: helvetica;
   max-width:34em;
   margin:auto;
   margin-bottom: 7%;
@@ -54,7 +53,7 @@ html {
 .text-section h3 { text-align: center; }
 
 .cv {
-  font-family: arial;
+  font-family: helvetica;
   max-width:40em;
   margin:auto;
   margin-bottom: 7%;
@@ -66,6 +65,12 @@ html {
 
 
 .article-container { padding-bottom: 2rem; }
+
+
+figcaption { 
+    text-align: center;
+    display: block;
+}
 
 header {
 

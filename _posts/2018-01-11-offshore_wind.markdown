@@ -9,7 +9,7 @@ categories: projects
 
 <div class="text-section">
 <div style="text-align:center"><h3>Offshore Wind Pre-Feasibility Study</h3><br>
-Economic Analyst</div>
+<b>Economic Analyst</b></div>
 
 
 

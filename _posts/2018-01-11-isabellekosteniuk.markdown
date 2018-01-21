@@ -6,6 +6,11 @@ categories: projects
 ---
 
 <div class="text-section">
+
+<div style="text-align: center"><h3>isabellekosteniuk.ca</h3> <br>
+</div>
+
+
 <p>
 This site is hosted by Github, uses Cloudflare SSL services, and was generated using Jekyll. Emphasis was placed on maintainability and clean, responsive design.
 </p>

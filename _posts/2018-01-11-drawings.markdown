@@ -6,11 +6,16 @@ categories: portfolio
 ---
 
 
-<div class = "text-section">
+
 <img src = "/assets/art/milkjar.jpg">
-<li>milk jar, 2016, ink on paper</li><br>
+<figcaption>milk jar, 2015, ink on paper</figcaption><br>
+
 <img src = "/assets/art/nofuture.jpg">
-<li>no future, 2016, ink on paper</li><br>
+<figcaption>no future, 2015, ink on paper</figcaption><br>
+
+<img src = "/assets/art/fruityboys.png">
+<figcaption>fruity boys, 2018, digital logo</figcaption><br>
+
 <img src = "/assets/art/loworbit2.jpg">
-<li>low orbit, 2018, digitized ink on paper</li><br>
-</div>
+<figcaption>low orbit, 2018, digitized ink on paper</figcaption><br><br>
+
