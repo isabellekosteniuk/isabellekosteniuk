@@ -5,4 +5,18 @@ date:   2018-01-11 10:54:37 -0500
 categories: projects
 ---
 
-Commissioned the command and data handling system for the Carleton University Solar House. Labview, Powershell
+Installed instrumentation - custom thermopiles, flowmeters, wind sensors, pyranometers. Interpretation of technical documents and manuals. Mechanical, electrical connections. Cabling layouts and information management. 
+
+Labview stuff. Worked with National Instruments data acquisition controllers. Built off existing project.
+
+Tasks to read data - communicate with variety of sensors with different ranges, noise levels, output types. 
+Manipulate data - pipeline moderately large amounts f data through calibration polynomials. 
+Store data - create formatting system for easily readable data
+Make decisions (change modes) - translate control algorithm to labview 
+Actuate sensors - relays, lots of string manipulation
+
+Send data to SVN server for processing and storage using PowerShell script.
+
+Worked with a team of graduate students and technicians. 
+
+Links:

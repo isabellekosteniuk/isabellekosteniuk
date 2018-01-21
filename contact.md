@@ -8,6 +8,6 @@ permalink: /contact/
 <ul style="list-style:none;">
 <li>instagram: {{site.instagram_username}}</li>
 <li>email: {{site.email}}</li>
-<li>github: {{site.github}}</li>
+<li>github: {{site.github_username}}</li>
 </ul>
 </div>
