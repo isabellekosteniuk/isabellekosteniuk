@@ -19,9 +19,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   solar power, fine art, and aliens
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.isabellekosteniuk.ca" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
+
 github_username:  isabellekosteniuk
-instagram_username: isabelle.exe
+linkedin_username: isabellekosteniuk
 permalink: /:categories/:title/
 
 

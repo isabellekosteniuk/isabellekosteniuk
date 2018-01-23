@@ -53,7 +53,8 @@ This project is a state-of-the-art research facility in which several independen
   Received Canterbury Visual Arts Certificate with distinction</p>
 
 <i><b>Carleton University: Class of 2018</b></i>
-<p>Undergraduate Degree in Electrical Engineering, Specialization in Sustainable and Renewable EnergyDean’s Honor List (2013 - 2017)</p>
+<p>Undergraduate Degree in Electrical Engineering, Specialization in Sustainable and Renewable Energy<br>
+Dean’s Honor List (2013 - 2017)</p>
 
 <hr><h3>skills </h3>
 <hr>
