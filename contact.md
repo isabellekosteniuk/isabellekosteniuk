@@ -6,8 +6,8 @@ permalink: /contact/
 ---
 <div class="text-section">
 <ul style="list-style:none; text-align: center">
-<li>linkedin: {{site.linkedin_username}}</li>
-<li>email: {{site.email}}</li>
-<li>github: {{site.github_username}}</li>
+  <li><a href = {{site.linkedin_username}}> linkedin </a></li>
+  <li><a href = {{site.github_username}}> github </a></li>
+  <li>{{site.email}}</li>
 </ul>
 </div>
