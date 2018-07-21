@@ -9,5 +9,5 @@ categories: projects
 <b><div style="text-align:center">Front-End Developer</div></b>
 
 
-<p>Play the game here! <a href="https://isabellekosteniuk.ca/service-catalogue">here.</a></p>
+<p>Play the game here! <a href="https://isabellekosteniuk.ca/pigGameJS">here.</a></p>
 </div>
