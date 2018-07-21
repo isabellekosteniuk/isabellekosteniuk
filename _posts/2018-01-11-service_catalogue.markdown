@@ -12,5 +12,5 @@ categories: projects
 
 <p>The site uses a heirarchical controller structure to maintain modularity, with catalogue items and other site data stored in controller-accessible hashes. UI design features include a collapsable navigation bar and responsive content. The needs of various departments were integrated in order to provide a clean interface for employees to access services. </p>
 
-<p>An older version of the code can be accessed <a href="https://github.com/isabellekosteniuk/service-catalogue">here.</a> Screenshots and updated code coming soon.</p>
+<p>See the site <a href="https://isabellekosteniuk.ca/service-catalogue">here.</a> </p>
 </div>

@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Pig Game JS"
+date:   2018-07-21
+categories: projects
+---
+<div class="text-section">
+<h3>Pig Game JS - A DOM Manipulation Project</h3> <br>
+<b><div style="text-align:center">Front-End Developer</div></b>
+
+
+<p>Play the game here! <a href="https://isabellekosteniuk.ca/service-catalogue">here.</a></p>
+</div>
