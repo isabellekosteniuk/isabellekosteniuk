@@ -8,6 +8,15 @@ categories: projects
 <h3>Pig Game JS - A DOM Manipulation Project</h3> <br>
 <b><div style="text-align:center">Front-End Developer</div></b>
 
+<p>DOM manipulation game for practice in javascript! part of <a href = "https://www.udemy.com/the-complete-javascript-course/">The Complete Javascript Course 2018" by Jonas Schmedtmann</a></p> 
 
+<p>GAME RULES:</p>
+<ul>
+<li>The game has 2 players, playing in rounds</li>
+<li>In each turn, a player rolls a dice as many times as he whishes. Each result get added to his ROUND score</li>
+<li>BUT, if the player rolls a 1, all his ROUND score gets lost. After that, it's the next player's turn</li>
+<li>The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn</li>
+<li>The first player to reach 100 points on GLOBAL score wins the game</li>
+</ul>
 <p>Play the game here! <a href="https://isabellekosteniuk.ca/pigGameJS">here.</a></p>
 </div>
