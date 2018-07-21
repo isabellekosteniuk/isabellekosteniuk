@@ -153,17 +153,29 @@ footer {
 
 }
 
+.flex-grid-thirds .col-inner {
+ 
+
+  width: 30%;
+  min-width: 300px; 
+  height: 150px;
+  padding:7vh;
+
+  text-align: center;
+ 
+  background-color: salmon;
+
+}
 
 .flex-grid-thirds .col {
  
 
   width: 30%;
   min-width: 300px;
-  padding:5vh;
-  justify-content: space-between;
-  border: 20px solid white;
+  padding:3vh;
+  border: 10px solid white;
   text-align: center;
-  background-color: salmon;
+  background-color: white;
 
 }
 

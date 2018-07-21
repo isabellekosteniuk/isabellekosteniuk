@@ -8,7 +8,7 @@ categories: projects
 <h3>Pig Game JS - A DOM Manipulation Project</h3> <br>
 <b><div style="text-align:center">Front-End Developer</div></b>
 
-<p>DOM manipulation game for practice in javascript! part of <a href = "https://www.udemy.com/the-complete-javascript-course/">The Complete Javascript Course 2018" by Jonas Schmedtmann</a></p> 
+<p>DOM manipulation game for practice in javascript! part of <a href = "https://www.udemy.com/the-complete-javascript-course/">"The Complete Javascript Course 2018" by Jonas Schmedtmann</a></p> 
 
 <p>GAME RULES:</p>
 <ul>

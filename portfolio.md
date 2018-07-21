@@ -11,7 +11,7 @@ permalink: /portfolio/
 {%for post in site.categories.portfolio%}
 	
 		<div class="col">
-			<a href = "{{post.url}}">{{post.title}}</a>
+			<a href = "{{post.url}}"><div class="col-inner">{{post.title}}</div></a>
 		</div>
 	
 {%endfor%}
