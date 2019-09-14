@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "prints"
+date:   2018-01-11 10:54:37 -0500
+categories: portfolio
+---
+
+
+
+<img src = "/assets/art/leopardprint.jpg">
+<figcaption>low orbit, 2018, digitized ink on paper</figcaption><br><br>
+
+
+<img src = "/assets/art/clockradio.jpg">
+<figcaption>no future, 2015, ink on paper</figcaption><br>
+
+
+<img src = "/assets/art/chinatown.jpg">
+<figcaption>low orbit, 2018, digitized ink on paper</figcaption><br><br>
+
+
+<img src = "/assets/art/silencio.jpg">
+<figcaption>low orbit, 2018, digitized ink on paper</figcaption><br><br>
+
+
+<img src = "/assets/art/lino.jpg">
+<figcaption>low orbit, 2018, digitized ink on paper</figcaption><br><br>

@@ -5,25 +5,91 @@ date:   2018-01-11 10:54:37 -0500
 categories: portfolio
 ---
 
+<img src = "/assets/art/strawberry2.jpg">
+<figcaption>strawberry, 2018, digital illustration</figcaption><br>
 
 
-<img src = "/assets/art/Milkjar.jpg">
-<figcaption>milk jar, 2015, ink on paper</figcaption><br>
-
-
-
-<img src = "/assets/art/Nofuture.jpg">
-<figcaption>no future, 2015, ink on paper</figcaption><br>
-
-
+<img src = "/assets/art/v8.jpg">
+<figcaption>v8, 2018, digital illustration</figcaption><br>
 
 
 <img src = "/assets/art/fruityboys.png">
 <figcaption>fruity boys, 2018, digital logo</figcaption><br>
 
 
+<img src = "/assets/art/lips.jpg">
+<figcaption>lips, 2019, oil stick on paper</figcaption><br>
 
-<img src = "/assets/art/loworbit2.jpg">
-<figcaption>low orbit, 2018, digitized ink on paper</figcaption><br><br>
+
+
+<img src = "/assets/art/brunette.jpg">
+<figcaption>brunette, 2019, graphite on paper</figcaption><br>
+
+
+
+<img src = "/assets/art/xoloitzcuintli.jpg">
+<figcaption>xoloitzcuintli, 2019, graphite on paper</figcaption><br>
+
+
+<img src = "/assets/art/blonde.jpg">
+<figcaption>blonde, 2019, graphite on paper</figcaption><br>
+
+
+
+<img src = "/assets/art/sarahfruitynorth.jpg">
+<figcaption>sarah "fruity" north, 2019, graphite on paper</figcaption><br>
+
+
+<img src = "/assets/art/ladyfrick.jpg">
+<figcaption>lady frick, 2019, graphite on paper</figcaption><br>
+
+
+<img src = "/assets/art/lewis.jpg">
+<figcaption>lewis, 2019, graphite on paper</figcaption><br>
+
+<img src = "/assets/art/leapingtoad.jpg">
+<figcaption>leaping toad, 2019, pastel and graphite on paper</figcaption><br>
+
+
+<img src = "/assets/art/car.jpg">
+<figcaption>suspicious looking honda civic, 2019, ink and highlighter on paper</figcaption><br>
+
+<img src = "/assets/art/bluechurch.jpg">
+<figcaption>blue church, 2019, watercolor on paper</figcaption><br>
+
+
+<img src = "/assets/art/airplane.jpg">
+<figcaption>airplane, 2019, ink on paper</figcaption><br>
+
+
+<img src = "/assets/art/nicksservicecentre.jpg">
+<figcaption>nick's service centre, 2019, graphite on paper</figcaption><br>
+
+
+<img src = "/assets/art/metalbowl.jpg">
+<figcaption>metal bowl, 2019, graphite on paper</figcaption><br>
+
+
+<img src = "/assets/art/crash.jpg">
+<figcaption>raleigh north carolina, 2015, graphite on paper</figcaption><br>
+
+
+<img src = "/assets/art/clockcactuslamp.jpg">
+<figcaption>clock cactus lamp, 2019, watercolor on paper</figcaption><br>
+
+
+<img src = "/assets/art/Milkjar.jpg">
+<figcaption>milk jar, 2015, ink on paper</figcaption><br>
+
+
+<img src = "/assets/art/Nofuture.jpg">
+<figcaption>no future, 2015, ink on paper</figcaption><br><br><br>
+
+
+
+
+
+
+
 
 

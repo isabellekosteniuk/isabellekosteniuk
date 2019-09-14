@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "animations"
+date:   2018-01-11 10:54:37 -0500
+categories: portfolio
+---
+
+
+
+<img src = "/assets/art/crystal_ball.gif">
+<figcaption>milk jar, 2015, ink on paper</figcaption><br>
+
+
+
+<img src = "/assets/art/Nofuture.jpg">
+<figcaption>no future, 2015, ink on paper</figcaption><br>
+
+
+
+
+<img src = "/assets/art/fruityboys.png">
+<figcaption>fruity boys, 2018, digital logo</figcaption><br>
+
+
+
+<img src = "/assets/art/loworbit2.jpg">
+<figcaption>low orbit, 2018, digitized ink on paper</figcaption><br><br>

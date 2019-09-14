@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "animations"
+date:   2018-01-11 10:54:37 -0500
+categories: portfolio
+---
+
+
+
+<img src = "/assets/art/crystal_ball.gif">
+<figcaption>crystal ball, 2018, photoshop animation</figcaption><br><br>
+
+
+
+<img src = "/assets/art/saturn_bluffs.gif">
+<figcaption>saturn bluffs, 2018, digitized ink on paper photoshop animation</figcaption><br>
+
+
+
+
+<img src = "/assets/art/lick.gif">
+<figcaption>lick, 2018, photoshop animation</figcaption><br>
+
+
+
+<img src = "/assets/art/blink_15.gif">
+<figcaption>blink 15, 2018, photoshop animation</figcaption><br><br><br><br>
